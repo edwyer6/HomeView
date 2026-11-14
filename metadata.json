@@ -1,0 +1,6 @@
+{
+  "name": "HomeView Hub",
+  "description": "Minimalist iPad HomeView dashboard with analog clock, live weather, Apple Calendar real-time sync, and live Detroit Lions, NJ Devils, and UNC Men's Basketball widgets.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
